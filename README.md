@@ -2,7 +2,7 @@
 
 **A blueprint by Fahad Chandio for the Digital Growth and Programs Manager role.**
 
-Live version: [fhdchnd.github.io/dfhq-digital-growth-blueprint](https://fhdchnd.github.io/dfhq-digital-growth-blueprint/)
+Live version: [fhdchnd.github.io/dfhq](https://fhdchnd.github.io/dfhq/)
 
 No cover letter. Your own job post already named the problem: coordinate across several teams, translate business needs into requirements, keep platform capability aligned with program delivery and user acquisition. That list exists because right now nobody fully owns the seam between DFHQ's digital portal and DFHQ's physical Campus. I want to own it, and this is the plan I'd run.
 
